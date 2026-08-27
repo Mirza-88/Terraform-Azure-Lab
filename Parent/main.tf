@@ -1,6 +1,6 @@
 module "Usman_RG" {
     source = "../Module/RG"
-    X= var.Y
+    RG= var.Y
   
 }
 
